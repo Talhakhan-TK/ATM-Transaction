@@ -1,5 +1,5 @@
 {
-  "name": "atm-banking-app",
+  "name": "atm_banking_app",
   "version": "1.0.0",
   "description": "ATM Banking Transaction model",
   "main": "index.js",
